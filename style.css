@@ -2,3 +2,9 @@ h1 {
   color: blue;
   text-align: center;
 }
+
+p {
+  font-size: 18px;
+  line-height: 1.6;
+  margin: 20px;
+}
